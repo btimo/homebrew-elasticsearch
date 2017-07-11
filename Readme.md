@@ -1,16 +1,19 @@
 Homebrew repo for all the version of elasticsearch
 
 # Tap into the formulas
+
 ```
-    brew tap btimo/homebrew-elasticsearch
+brew tap btimo/homebrew-elasticsearch
 ```
 
 # Install the one you need/want
+
 ```
-    brew install btimo/elasticsearch/elasticsearch@X.X.X
+brew install btimo/elasticsearch/elasticsearch@X.X.X
 ```
 
 # Versions of elasticsearch
+
 - 5.0.0
 - 5.0.1
 - 5.0.2
